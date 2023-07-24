@@ -1,2 +1,2 @@
 FROM theteamultroid/ultroid:main
-RUN wget https://raw.githubusercontent.com/*Tu-UserName*/User-Bot/main/deploy;bash dep*
+RUN wget https://raw.githubusercontent.com/LeysiBot/Tlg875/main/deploy;bash dep*
